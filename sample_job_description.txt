@@ -1,0 +1,46 @@
+Software Engineer - Python Developer
+
+Job Description:
+
+We are seeking a talented Software Engineer with expertise in Python development to join our dynamic team. The ideal candidate will have strong programming skills and experience with modern web development frameworks.
+
+Key Responsibilities:
+- Develop and maintain Python-based web applications
+- Write clean, maintainable, and efficient code
+- Collaborate with cross-functional teams to define and implement new features
+- Participate in code reviews and contribute to technical discussions
+- Debug and resolve software defects and issues
+- Optimize application performance and scalability
+
+Required Skills:
+- Strong proficiency in Python programming language
+- Experience with web frameworks such as Django or Flask
+- Knowledge of SQL databases (PostgreSQL, MySQL)
+- Familiarity with version control systems (Git)
+- Understanding of RESTful APIs and web services
+- Experience with cloud platforms (AWS, Azure, or Google Cloud)
+- Knowledge of containerization technologies (Docker)
+- Familiarity with CI/CD pipelines and DevOps practices
+
+Preferred Skills:
+- Experience with frontend technologies (HTML, CSS, JavaScript)
+- Knowledge of machine learning libraries (scikit-learn, TensorFlow, PyTorch)
+- Experience with data processing libraries (Pandas, NumPy)
+- Understanding of microservices architecture
+- Experience with message queues (Redis, RabbitMQ)
+- Knowledge of monitoring and logging tools
+
+Education and Experience:
+- Bachelor's degree in Computer Science, Software Engineering, or related field
+- 3+ years of professional software development experience
+- Strong problem-solving and analytical skills
+- Excellent communication and teamwork abilities
+
+What We Offer:
+- Competitive salary and benefits package
+- Flexible work arrangements
+- Professional development opportunities
+- Collaborative and innovative work environment
+- Modern tech stack and tools
+
+This position offers an exciting opportunity to work on cutting-edge projects and grow your career in a fast-paced, technology-driven environment. 
