@@ -11,7 +11,7 @@ An intelligent resume screening application that uses advanced AI to automatical
 │                 │◄──►│     Class        │◄──►│                 │
 │ • File Upload   │    │ • PDF Processing │    │ • Embeddings    │
 │ • Job Input     │    │ • Text Cleaning  │    │ • Similarity    │
-│ • Results Display│   │ • Skill Detection│    │ • Ranking       │
+│ • Result Display│    │ • Skill Detection│    │ • Ranking       │
 └─────────────────┘    └──────────────────┘    └─────────────────┘
          │                       │                       │
          ▼                       ▼                       ▼
