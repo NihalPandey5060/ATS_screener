@@ -266,7 +266,7 @@ plotly==5.17.0             # Visualization
 - **No Data Persistence**: Resumes not stored permanently
 - **Anonymous Processing**: No personal data tracking
 - **Secure Export**: CSV exports contain only analysis results
-- **Compliance Ready**: GDPR and privacy regulation compliant
+- **Compliance Ready**: GDPR and DPDP privacy regulation compliant
 
 ## 🔮 Future Enhancements
 
